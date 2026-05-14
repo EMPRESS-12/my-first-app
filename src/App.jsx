@@ -8,7 +8,7 @@ function App() {
         <h1 className="text-3xl font-bold">Juliet Ohene Danso</h1>
 
         <p className="text-gray-300 mt-2">
-          Virtual Assistant | Frontend Learner | Tech Enthusiast
+          Virtual Assistant | Frontend Developer| Tech Enthusiast
         </p>
 
         <p className="text-gray-400 mt-4 text-sm">
